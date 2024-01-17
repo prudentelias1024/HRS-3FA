@@ -7,3 +7,4 @@ djangorestframework-jwt==1.11.0
 djangorestframework-simplejwt==5.3.0
 mysqlclient==2.2.0
 xdis==5.0.13
+bcrypt==4.0.1
