@@ -139,7 +139,7 @@ statsmodels==0.14.0
 sympy==1.12
 termcolor==2.2.0
 terminado==0.17.1
-thinc==8.1.10
+thinc==8.1.10               
 threadpoolctl==3.1.0
 tinyaes==1.1.0
 tinycss2==1.2.1
