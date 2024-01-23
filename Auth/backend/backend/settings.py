@@ -124,7 +124,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'LMR',
+        'NAME': 'if0_35844381_lmr',
         'USER': 'if0_35844381',
         'PASSWORD': 's0igmm5oDAh',
         'HOST': 'sql307.infinityfree.com',
