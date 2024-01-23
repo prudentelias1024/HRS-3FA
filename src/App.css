@@ -611,10 +611,6 @@ video {
   margin-top: -1rem;
 }
 
-.-mt-\[2\.5em\] {
-  margin-top: -2.5em;
-}
-
 .mb-\[\.25em\] {
   margin-bottom: .25em;
 }
@@ -707,10 +703,6 @@ video {
   margin-right: 3em;
 }
 
-.mr-\[5em\] {
-  margin-right: 5em;
-}
-
 .mt-1 {
   margin-top: 0.25rem;
 }
@@ -749,14 +741,6 @@ video {
 
 .mt-\[4em\] {
   margin-top: 4em;
-}
-
-.ml-\[21m\] {
-  margin-left: 21m;
-}
-
-.ml-\[1emm\] {
-  margin-left: 1emm;
 }
 
 .flex {
@@ -1059,11 +1043,6 @@ video {
   background-color: rgb(241 241 241 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#f2f4f8\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(242 244 248 / var(--tw-bg-opacity));
-}
-
 .bg-\[\#fafbfb\] {
   --tw-bg-opacity: 1;
   background-color: rgb(250 251 251 / var(--tw-bg-opacity));
@@ -1142,11 +1121,6 @@ video {
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
-}
-
-.px-\[\.5em\] {
-  padding-left: .5em;
-  padding-right: .5em;
 }
 
 .px-\[1em\] {
@@ -1253,6 +1227,11 @@ video {
   line-height: 1;
 }
 
+.text-9xl {
+  font-size: 8rem;
+  line-height: 1;
+}
+
 .text-\[1em\] {
   font-size: 1em;
 }
@@ -1280,11 +1259,6 @@ video {
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
-}
-
-.text-9xl {
-  font-size: 8rem;
-  line-height: 1;
 }
 
 .font-bold {
@@ -1321,11 +1295,6 @@ video {
   color: rgb(146 146 146 / var(--tw-text-opacity));
 }
 
-.text-\[\#c9c8c8\] {
-  --tw-text-opacity: 1;
-  color: rgb(201 200 200 / var(--tw-text-opacity));
-}
-
 .text-\[\#ccc\] {
   --tw-text-opacity: 1;
   color: rgb(204 204 204 / var(--tw-text-opacity));
@@ -1334,6 +1303,10 @@ video {
 .text-\[\#cfcece\] {
   --tw-text-opacity: 1;
   color: rgb(207 206 206 / var(--tw-text-opacity));
+}
+
+.text-\[Outfit\] {
+  color: Outfit;
 }
 
 .text-blue-500 {
@@ -1396,10 +1369,6 @@ video {
   color: rgb(234 179 8 / var(--tw-text-opacity));
 }
 
-.text-\[Outfit\] {
-  color: Outfit;
-}
-
 .shadow-md {
   --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
@@ -1410,11 +1379,6 @@ video {
   --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
   --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-
-.outline-none {
-  outline: 2px solid transparent;
-  outline-offset: 2px;
 }
 
 @font-face {

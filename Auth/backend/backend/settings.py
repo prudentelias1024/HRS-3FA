@@ -111,13 +111,23 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 APP_SECRET_KEY = 'lasuictautomation'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'LMR',
+#         'USER': 'Elias',
+#         'PASSWORD': 'LasuICT',
+#         'HOST': 'Localhost',
+#         'PORT': '3306'
+#     }
+# }
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'LMR',
-        'USER': 'Elias',
-        'PASSWORD': 'LasuICT',
-        'HOST': 'Localhost',
+        'USER': 'if0_35844381',
+        'PASSWORD': 's0igmm5oDAh',
+        'HOST': 'sql307.infinityfree.com',
         'PORT': '3306'
     }
 }
