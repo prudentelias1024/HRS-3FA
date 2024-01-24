@@ -121,9 +121,17 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 #         'PORT': '3306'
 #     }
 # }
+# DATABASES = {
+#     'default': {
+#         'NAME': '4432838_lms',
+#         'USER': '4432838_lms',
+#         'PASSWORD': 'Medicalautomation1024',
+#         'HOST': 'fdb1034.awardspace.net',
+#         'PORT': '3306'
+#     }
+# }
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
         'NAME': 'if0_35844381_lmr',
         'USER': 'if0_35844381',
         'PASSWORD': 's0igmm5oDAh',
